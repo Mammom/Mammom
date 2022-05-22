@@ -13,12 +13,12 @@
   <br />
   <br />
   
-<!--   ## :postbox:Contact Me Here
-  
+  ## :postbox:Contact Me Here
+  kimcomcom0@daum.net
   
 
   
-  <br /> -->
+  <br />
   
 ##  :mortar_board: University study curriculum
 
