@@ -38,7 +38,7 @@
 |[Algorithm Semina](https://github.com/Mammom/Algorithm_Semina)|Semina|Algorithm|Winter Vacation Project (Semina)|
 |[Daelimi](https://github.com/Mammom/Daelimi-Main-)|Project|Project Engineer|Daelim University FAQ Chat bot Project in ICC|
 |[Daelimi Android](https://github.com/Mammom/Daelimi-Android-)|Project|Android / Java|Application Implementation|
-|[Kotlin(Andorid)](https://github.com/Mammom/Android-Kotlin-)|Study|Kotlin|Personal Study|
+|[Kotlin(Andorid)_TIL](https://github.com/Mammom/Android-Kotlin-)|Study|Kotlin|Personal Study|
 
   <br />
   
