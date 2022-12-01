@@ -44,10 +44,10 @@
   <br />
   
   ###  :chart_with_upwards_trend:GitHub stats
-  ![Mammom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mammom&show_icons=true&theme=radical)
+  ![Mammom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mammom&count_private=true&show_icons=true&theme=react)
 
   ###  :dizzy:Most used language
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mammom&layout=Demo&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mammom&theme=radical)
   
   ###  :pencil2:Baekjoon solved rank
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimcomcom)](https://solved.ac/kimcomcom) 
